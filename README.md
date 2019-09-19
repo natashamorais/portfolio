@@ -1,9 +1,9 @@
 # portfolio
 Desenvolvimento do meu novo portfolio do design até o deploy, usando principalmente CSS, HTML E Javascript vanilla 
-##Design##
+## Design ##
 
-## ferramentas ultilizadas ##
+## Ferramentas ultilizadas ##
 
-## como "rodar" esse projeto ##
+## Como "rodar" esse projeto ##
 
-##Link para o site finalizado##
+## Link para o site finalizado ##
